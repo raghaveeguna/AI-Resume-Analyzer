@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pymupdf
+python-docx
+scikit-learn
+spacy
+nltk
+passlib[bcrypt]
+python-jose[cryptography]
